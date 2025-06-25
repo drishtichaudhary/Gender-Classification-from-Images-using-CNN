@@ -36,10 +36,13 @@ Upload a face image, and the model will classify it as **Male** or **Female**.
 📌 Notes
 
 The model takes input image of size 224x224.
+
 Images must be clear face images, ideally front-facing.
+
 If predictions seem off, try different lighting or image quality.
 
 ✨ Credits
 
 Developed by Drishti Chaudhary
+
 Inspired by CNN-based image classification projects.
