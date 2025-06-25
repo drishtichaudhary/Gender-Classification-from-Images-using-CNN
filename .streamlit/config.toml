@@ -1,0 +1,6 @@
+[general]
+email = "drishtichaudhary616@gmail.com"
+
+[runtime]
+python_version = "3.10"
+
