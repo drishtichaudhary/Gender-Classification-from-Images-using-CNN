@@ -21,11 +21,17 @@ Upload a face image, and the model will classify it as **Male** or **Female**.
 .
 ├── .devcontainer/
     └── devcontainer.json
+    
 └── streamlit
+
 ├── app.py                  # Streamlit app code
+
 ├── gender_model.h5         # Trained CNN model
+
 ├── requirements.txt
+
 ├── runtime.txt             # For Streamlit cloud (Python version)
+
 
 📌 Notes
 
