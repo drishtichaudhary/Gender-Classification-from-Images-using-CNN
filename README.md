@@ -17,6 +17,7 @@ Upload a face image, and the model will classify it as **Male** or **Female**.
 - Pillow, NumPy, Matplotlib
 
 📦 Folder Structure
+
 .
 ├── .devcontainer/
     └── devcontainer.json
