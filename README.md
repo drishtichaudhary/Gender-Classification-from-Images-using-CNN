@@ -35,6 +35,8 @@ Upload a face image, and the model will classify it as **Male** or **Female**.
 
 📌 Notes
 
+⚠️This is a demo project showcasing deployment and CNN model integration. The model is a basic one and may misclassify edge cases. Improvements underway!
+
 The model takes input image of size 224x224.
 
 Images must be clear face images, ideally front-facing.
